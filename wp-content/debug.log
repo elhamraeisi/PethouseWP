@@ -689,3 +689,114 @@ Stack trace:
 [14-May-2020 15:58:47 UTC] PHP Notice:  Undefined property: WP_Error::$name in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-walker-nav-menu-edit.php on line 78
 [14-May-2020 15:58:47 UTC] PHP Notice:  Undefined property: WP_Error::$name in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-walker-nav-menu-edit.php on line 78
 [14-May-2020 15:58:47 UTC] PHP Notice:  Undefined property: WP_Error::$name in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-walker-nav-menu-edit.php on line 78
+[14-May-2020 20:06:40 UTC] WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => You must provide at least one recipient email address.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => 
+                        )
+
+                    [subject] => Votre message à été envoyé
+                    [message] => Bonjour,
+Voici le message que vous avez envoyé :
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+)
+
+[15-May-2020 11:15:40 UTC] WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => SMTP Error: Could not authenticate.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => zaribaf.elham@gmail.com
+                        )
+
+                    [subject] => Vous avez reçu un message concernant votre annonce
+                    [message] => Bonjour,
+Vous avez recu un message de elham raeisi concernant votre annonce :
+
+je voudrais acheter votre chien.
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 0
+                )
+
+        )
+
+)
+
+[16-May-2020 21:39:25 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No such file or directory in /opt/lampp/htdocs/animaux/wordpress/wp-includes/wp-db.php on line 1626
+[19-May-2020 12:40:04 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[19-May-2020 12:40:04 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
+[19-May-2020 12:40:04 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[19-May-2020 12:40:04 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
+[19-May-2020 12:40:04 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[19-May-2020 12:40:04 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
+[26-May-2020 10:36:23 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[26-May-2020 10:36:23 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
+[26-May-2020 10:36:23 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[26-May-2020 10:36:23 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
+[26-May-2020 10:36:23 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[26-May-2020 10:36:23 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
+[26-May-2020 10:55:53 UTC] PHP Parse error:  syntax error, unexpected '"Contacter le propriétaire"' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ',' in /opt/lampp/htdocs/animaux/wordpress/wp-content/plugins/pethouse-contact-form/pethouse-contact-form.php on line 23
+[05-Jun-2020 10:09:13 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[05-Jun-2020 10:09:13 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
+[05-Jun-2020 10:09:13 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[05-Jun-2020 10:09:13 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
+[05-Jun-2020 10:09:13 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[05-Jun-2020 10:09:13 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
+[09-Jun-2020 08:43:11 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[09-Jun-2020 08:43:11 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
+[09-Jun-2020 08:43:11 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[09-Jun-2020 08:43:11 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
+[09-Jun-2020 08:43:11 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[09-Jun-2020 08:43:11 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
+[17-Jun-2020 09:58:46 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[17-Jun-2020 09:58:46 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
+[17-Jun-2020 09:58:46 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[17-Jun-2020 09:58:46 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
+[17-Jun-2020 09:58:46 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2303
+[17-Jun-2020 09:58:46 UTC] PHP Notice:  Trying to access array offset on value of type int in /opt/lampp/htdocs/animaux/wordpress/wp-admin/includes/class-wp-site-health.php on line 2305
